@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\RePoSiToRyI\\Hw1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60D34349-E22E-43AE-A71C-A56CBBE3AAC8}|Hw1\\Hw1.vcxproj|E:\\RePoSiToRyI\\Hw1\\Hw1\\Raketka.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60D34349-E22E-43AE-A71C-A56CBBE3AAC8}|Hw1\\Hw1.vcxproj|solutionrelative:Hw1\\Raketka.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Raketka.c",
+              "DocumentMoniker": "E:\\RePoSiToRyI\\Hw1\\Hw1\\Raketka.c",
+              "RelativeDocumentMoniker": "Hw1\\Raketka.c",
+              "ToolTip": "E:\\RePoSiToRyI\\Hw1\\Hw1\\Raketka.c*",
+              "RelativeToolTip": "Hw1\\Raketka.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-05T16:29:42.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
