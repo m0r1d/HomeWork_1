@@ -1,20 +1,20 @@
-#include <stdio.h>
-#include <locale.h>
-
-int N , K;
-N = 9;
-K = 36;
-
-int main()
+#define _USE_MATH_DEFINES
+#define _CRT_SECURE_NO_WARNINGS
+#include<stdio.h>
+#include<locale.h>
+#include<math.h>
+#include<stdlib.h>
+void main()
 {
-	setlocale(LC_CTYPE, "RUS");
-	printf("Сейчас %d часов %d минут 00 секунд",N ,K );
-	getchar();
-	printf("Идёт %d минута суток",N*60+K );
-	getchar();
-	printf("До полуночи осталось %d часов и %d минут", 24 - N, 60 - K);
-	getchar();
-	printf("С 8:00 прошло %d секунд", N * 3600 + K * 60);
-	getchar();
-	printf("Текущий час= %d/24 суток и текущая минута= %d/60 часа", N, K);
+	setlocale(LC_ALL, "RUS");
+	float p,x,b,y,a;
+	puts("Введите значение x\n");
+	scanf("%f",&x);
+	p=0.5;
+	b =(exp(sqrt(x)));
+	a = (log10((pow(p,2))+(pow(x,3))));
+	y = ((pow(a,3))/(pow(b,2)));
+	printf("Ответ: %.4f",y);
+
+
 }
