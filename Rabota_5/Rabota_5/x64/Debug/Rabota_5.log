@@ -1,0 +1,5 @@
+﻿  Task_2.c
+C:\Users\student\source\repos\Rabota_5\Task_2.c(14,5): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Rabota_5\Task_2.c(15,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\Rabota_5\Task_2.c(16,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Rabota_5.vcxproj -> C:\Users\student\source\repos\Rabota_5\x64\Debug\Rabota_5.exe
