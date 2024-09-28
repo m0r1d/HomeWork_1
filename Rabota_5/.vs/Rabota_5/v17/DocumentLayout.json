@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\RePoSiToRyI\\Rabota_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E6A8-3446-4958-8B66-0CD58A2D5676}|Rabota_5.vcxproj|C:\\Users\\fitel\\Downloads\\Task_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E6A8-3446-4958-8B66-0CD58A2D5676}|Rabota_5.vcxproj|E:\\RePoSiToRyI\\Rabota_5\\Task_5_3_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4703E6A8-3446-4958-8B66-0CD58A2D5676}|Rabota_5.vcxproj|solutionrelative:Task_5_3_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4703E6A8-3446-4958-8B66-0CD58A2D5676}|Rabota_5.vcxproj|C:\\Users\\fitel\\Downloads\\Task_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task_5_3_1.c",
+              "DocumentMoniker": "E:\\RePoSiToRyI\\Rabota_5\\Task_5_3_1.c",
+              "RelativeDocumentMoniker": "Task_5_3_1.c",
+              "ToolTip": "E:\\RePoSiToRyI\\Rabota_5\\Task_5_3_1.c",
+              "RelativeToolTip": "Task_5_3_1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-28T12:32:50.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task_2.c",
+              "DocumentMoniker": "C:\\Users\\fitel\\Downloads\\Task_2.c",
+              "ToolTip": "C:\\Users\\fitel\\Downloads\\Task_2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-28T11:51:23.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task_3.c",
+              "DocumentMoniker": "C:\\Users\\fitel\\Downloads\\Task_3.c",
+              "ToolTip": "C:\\Users\\fitel\\Downloads\\Task_3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-28T11:51:11.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

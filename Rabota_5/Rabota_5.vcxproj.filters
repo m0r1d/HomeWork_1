@@ -15,13 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Task_0.c">
+    <ClCompile Include="C:\Users\fitel\Downloads\Task_0.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Task_1.c">
+    <ClCompile Include="C:\Users\fitel\Downloads\Task_1.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Task_2.c">
+    <ClCompile Include="C:\Users\fitel\Downloads\Task_2.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\fitel\Downloads\Task_3.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_5_3_1.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
