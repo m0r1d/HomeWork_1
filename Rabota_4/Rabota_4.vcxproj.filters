@@ -21,7 +21,10 @@
     <ClCompile Include="Task_2.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Task_3.c">
+    <ClCompile Include="C:\Users\fitel\Downloads\Task_3 (1).c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_4_HW.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

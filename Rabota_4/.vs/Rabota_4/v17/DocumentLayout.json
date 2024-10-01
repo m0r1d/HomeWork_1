@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "E:\\RePoSiToRyI\\Rabota_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79CE1B43-831E-47B6-AABC-B6C4DFBB7803}|Rabota_4.vcxproj|E:\\RePoSiToRyI\\Rabota_4\\Task_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{79CE1B43-831E-47B6-AABC-B6C4DFBB7803}|Rabota_4.vcxproj|solutionrelative:Task_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{79CE1B43-831E-47B6-AABC-B6C4DFBB7803}|Rabota_4.vcxproj|E:\\RePoSiToRyI\\Rabota_4\\Task_4_HW.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79CE1B43-831E-47B6-AABC-B6C4DFBB7803}|Rabota_4.vcxproj|solutionrelative:Task_4_HW.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CE1B43-831E-47B6-AABC-B6C4DFBB7803}|Rabota_4.vcxproj|C:\\Users\\fitel\\Downloads\\Task_3 (1).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79CE1B43-831E-47B6-AABC-B6C4DFBB7803}|Rabota_4.vcxproj|E:\\RePoSiToRyI\\Rabota_4\\Task_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,19 +34,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Task_3.c",
-              "DocumentMoniker": "E:\\RePoSiToRyI\\Rabota_4\\Task_3.c",
-              "RelativeDocumentMoniker": "Task_3.c",
-              "ToolTip": "E:\\RePoSiToRyI\\Rabota_4\\Task_3.c",
-              "RelativeToolTip": "Task_3.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Title": "Task_4_HW.c",
+              "DocumentMoniker": "E:\\RePoSiToRyI\\Rabota_4\\Task_4_HW.c",
+              "RelativeDocumentMoniker": "Task_4_HW.c",
+              "ToolTip": "E:\\RePoSiToRyI\\Rabota_4\\Task_4_HW.c",
+              "RelativeToolTip": "Task_4_HW.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-24T20:47:51.629Z",
+              "WhenOpened": "2024-10-01T18:19:51.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Task_3 (1).c",
+              "DocumentMoniker": "C:\\Users\\fitel\\Downloads\\Task_3 (1).c",
+              "ToolTip": "C:\\Users\\fitel\\Downloads\\Task_3 (1).c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-01T18:18:53.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Task_2.c",
               "DocumentMoniker": "E:\\RePoSiToRyI\\Rabota_4\\Task_2.c",
               "RelativeDocumentMoniker": "Task_2.c",
@@ -51,12 +65,11 @@
               "RelativeToolTip": "Task_2.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-24T20:32:04.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T20:32:04.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Task_1(B).c",
               "DocumentMoniker": "E:\\RePoSiToRyI\\Rabota_4\\Task_1(B).c",
               "RelativeDocumentMoniker": "Task_1(B).c",
@@ -64,8 +77,7 @@
               "RelativeToolTip": "Task_1(B).c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-24T20:08:51.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T20:08:51.585Z"
             }
           ]
         }

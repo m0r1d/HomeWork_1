@@ -127,9 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\fitel\Downloads\Task_3 (1).c" />
     <ClCompile Include="Task_1%28B%29.c" />
     <ClCompile Include="Task_2.c" />
-    <ClCompile Include="Task_3.c" />
+    <ClCompile Include="Task_4_HW.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
