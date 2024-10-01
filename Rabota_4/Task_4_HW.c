@@ -10,9 +10,12 @@ void main()
 	setlocale(LC_ALL, "RUS");
 	  int sum;
 	  int chai;
+	  //ввод данных
 	     puts("¬ведите сумму чека:");
 	     scanf("%d",&sum);
+	  //вычислени€
 		    chai = ((sum / 100) * 15) * 4;
+	  //вывод данных
 	     printf("ќфициант получил %d р. чаевыми", chai);
 	getchar();
     }
