@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fitel\\source\\repos\\Rabota_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7CAA48-AE06-43C9-B3FE-98E818061646}|Rabota_10.vcxproj|C:\\Users\\fitel\\source\\repos\\Rabota_10\\Task_10_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E7CAA48-AE06-43C9-B3FE-98E818061646}|Rabota_10.vcxproj|solutionrelative:Task_10_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7CAA48-AE06-43C9-B3FE-98E818061646}|Rabota_10.vcxproj|C:\\Users\\fitel\\source\\repos\\Rabota_10\\Task_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E7CAA48-AE06-43C9-B3FE-98E818061646}|Rabota_10.vcxproj|solutionrelative:Task_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7CAA48-AE06-43C9-B3FE-98E818061646}|Rabota_10.vcxproj|C:\\Users\\fitel\\source\\repos\\Rabota_10\\Task_10_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E7CAA48-AE06-43C9-B3FE-98E818061646}|Rabota_10.vcxproj|solutionrelative:Task_10_1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task_10_2.c",
+              "DocumentMoniker": "C:\\Users\\fitel\\source\\repos\\Rabota_10\\Task_10_2.c",
+              "RelativeDocumentMoniker": "Task_10_2.c",
+              "ToolTip": "C:\\Users\\fitel\\source\\repos\\Rabota_10\\Task_10_2.c",
+              "RelativeToolTip": "Task_10_2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-05T21:27:15.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task_2.c",
+              "DocumentMoniker": "C:\\Users\\fitel\\source\\repos\\Rabota_10\\Task_2.c",
+              "RelativeDocumentMoniker": "Task_2.c",
+              "ToolTip": "C:\\Users\\fitel\\source\\repos\\Rabota_10\\Task_2.c",
+              "RelativeToolTip": "Task_2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-05T20:58:57.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task_10_1.c",
+              "DocumentMoniker": "C:\\Users\\fitel\\source\\repos\\Rabota_10\\Task_10_1.c",
+              "RelativeDocumentMoniker": "Task_10_1.c",
+              "ToolTip": "C:\\Users\\fitel\\source\\repos\\Rabota_10\\Task_10_1.c",
+              "RelativeToolTip": "Task_10_1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-05T20:25:01.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

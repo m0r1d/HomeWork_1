@@ -1,0 +1,6 @@
+﻿  Task_10_1.c
+  Task_10_2.c
+C:\Users\fitel\source\repos\Rabota_10\Task_10_2.c(11,49): warning C4013: factorial: нет определения; предполагается "extern" с возвратом типа "int"
+  Task_2.c
+  Создание кода...
+  Rabota_10.vcxproj -> C:\Users\fitel\source\repos\Rabota_10\x64\Debug\Rabota_10.exe
