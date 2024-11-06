@@ -1,0 +1,4 @@
+﻿  dz.c
+C:\Users\student\Desktop\Labs\Lab3_bTII-242\dz3\dz.c(13,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\Desktop\Labs\Lab3_bTII-242\dz3\dz.c(17,2): warning C4098: main: функция типа "void", возвращающая значение
+  dz3.vcxproj -> C:\Users\student\Desktop\Labs\Lab3_bTII-242\x64\Debug\dz3.exe
