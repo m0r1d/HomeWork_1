@@ -1,0 +1,4 @@
+﻿  t_2.c
+C:\Users\student\Desktop\Labs\Lab8_bTII-242\task_2\t_2.c(24,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\Desktop\Labs\Lab8_bTII-242\task_2\t_2.c(29,2): warning C4098: main: функция типа "void", возвращающая значение
+  task_2.vcxproj -> C:\Users\student\Desktop\Labs\Lab8_bTII-242\x64\Debug\task_2.exe
