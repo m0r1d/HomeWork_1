@@ -1,0 +1,9 @@
+﻿  t_1.c
+C:\Users\student\Desktop\Labs\Lab4_bTII-242\task_1\t_1.c(18,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\student\Desktop\Labs\Lab4_bTII-242\task_1\t_1.c(18,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\student\Desktop\Labs\Lab4_bTII-242\task_1\t_1.c(18,10): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\student\Desktop\Labs\Lab4_bTII-242\task_1\t_1.c(18,10): message : этот аргумент используется в качестве размера буфера
+C:\Users\student\Desktop\Labs\Lab4_bTII-242\task_1\t_1.c(21,10): warning C4477: "scanf_s": в строке форматирования "%e" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+C:\Users\student\Desktop\Labs\Lab4_bTII-242\task_1\t_1.c(21,10): message : рекомендуется использовать "%le" в строке форматирования
+C:\Users\student\Desktop\Labs\Lab4_bTII-242\task_1\t_1.c(30,2): warning C4098: main: функция типа "void", возвращающая значение
+  task_1.vcxproj -> C:\Users\student\Desktop\Labs\Lab4_bTII-242\x64\Debug\task_1.exe
