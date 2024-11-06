@@ -1,0 +1,4 @@
+﻿  t_2.c
+C:\Users\student\Desktop\Labs\Lab9_bTII-242\task_2\t_2.c(13,26): warning C4552: "/": результат выражения не используется
+C:\Users\student\Desktop\Labs\Lab9_bTII-242\task_2\t_2.c(21,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  task_2.vcxproj -> C:\Users\student\Desktop\Labs\Lab9_bTII-242\x64\Debug\task_2.exe
