@@ -1,0 +1,10 @@
+﻿  1.c
+C:\Users\student\source\repos\lab_1_VAL\1.c(62,9): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "float *"
+C:\Users\student\source\repos\lab_1_VAL\1.c(10,13): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\student\source\repos\lab_1_VAL\1.c(10,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\student\source\repos\lab_1_VAL\1.c(29,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\lab_1_VAL\1.c(30,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\lab_1_VAL\1.c(65,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  copy.c
+  Создание кода...
+  lab_1_VAL.vcxproj -> C:\Users\student\source\repos\lab_1_VAL\x64\Debug\lab_1_VAL.exe
