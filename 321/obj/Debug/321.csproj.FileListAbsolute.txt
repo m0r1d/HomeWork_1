@@ -1,0 +1,9 @@
+C:\Users\fitel\source\repos\321\obj\Debug\321.csproj.AssemblyReference.cache
+C:\Users\fitel\source\repos\321\obj\Debug\_321.Properties.Resources.resources
+C:\Users\fitel\source\repos\321\obj\Debug\321.csproj.GenerateResource.cache
+C:\Users\fitel\source\repos\321\obj\Debug\321.csproj.CoreCompileInputs.cache
+C:\Users\fitel\source\repos\321\bin\Debug\321.exe.config
+C:\Users\fitel\source\repos\321\bin\Debug\321.exe
+C:\Users\fitel\source\repos\321\bin\Debug\321.pdb
+C:\Users\fitel\source\repos\321\obj\Debug\321.exe
+C:\Users\fitel\source\repos\321\obj\Debug\321.pdb
