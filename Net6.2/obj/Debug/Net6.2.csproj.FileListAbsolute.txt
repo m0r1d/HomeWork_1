@@ -1,0 +1,9 @@
+E:\RePoSiToRyI\Net6.2\obj\Debug\Net6.2.csproj.AssemblyReference.cache
+E:\RePoSiToRyI\Net6.2\obj\Debug\Net6._2.Properties.Resources.resources
+E:\RePoSiToRyI\Net6.2\obj\Debug\Net6.2.csproj.GenerateResource.cache
+E:\RePoSiToRyI\Net6.2\obj\Debug\Net6.2.csproj.CoreCompileInputs.cache
+E:\RePoSiToRyI\Net6.2\bin\Debug\Net6.2.exe.config
+E:\RePoSiToRyI\Net6.2\bin\Debug\Net6.2.exe
+E:\RePoSiToRyI\Net6.2\bin\Debug\Net6.2.pdb
+E:\RePoSiToRyI\Net6.2\obj\Debug\Net6.2.exe
+E:\RePoSiToRyI\Net6.2\obj\Debug\Net6.2.pdb
