@@ -1,0 +1,7 @@
+E:\RePoSiToRyI\Net6.1\bin\Debug\Net6.1.exe.config
+E:\RePoSiToRyI\Net6.1\bin\Debug\Net6.1.exe
+E:\RePoSiToRyI\Net6.1\bin\Debug\Net6.1.pdb
+E:\RePoSiToRyI\Net6.1\obj\Debug\Net6.1.csproj.AssemblyReference.cache
+E:\RePoSiToRyI\Net6.1\obj\Debug\Net6.1.csproj.CoreCompileInputs.cache
+E:\RePoSiToRyI\Net6.1\obj\Debug\Net6.1.exe
+E:\RePoSiToRyI\Net6.1\obj\Debug\Net6.1.pdb
